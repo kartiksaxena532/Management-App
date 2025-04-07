@@ -58,7 +58,7 @@ This project involves creating a mobile application for a School Management Syst
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/JavTahir/School-Management-System.git
+   git clone https://github.com/kartiksaxena532/Management-App.git
    cd sms
    ```
 2. **Install dependencies:**
