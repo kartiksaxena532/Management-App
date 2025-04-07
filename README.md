@@ -131,6 +131,6 @@ sms/
 
 ## Contact
 
-For any queries, contact [Javeria Tahir](mailto:javeria.tahir2003@gmail.com) or refer to the course guidelines.
+For any queries, contact [Kartik Saxena](mailto:karrtiksaxena@gmail.com) or refer to the course guidelines.
 
-Thank you for using sms!
+Thank you!
